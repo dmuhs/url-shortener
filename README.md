@@ -7,6 +7,9 @@ This is a simple URL shortening API that I built without any previous experience
 - same short code served for the same links submitted
 - SQLite integration
 
+## Deployment
+Simply run `make build` to rebuild the application and automatically install required dependencies. To run it, just run `make run` in the project root directory.
+
 ## Endpoints
 ### `/`
 #### GET
