@@ -1,0 +1,7 @@
+{
+  "SQLitePath": "./urls.db",
+  "Port": 8000,
+  "ShortCodeLength": 8,
+  "Domain": "http://my-shortener.com",
+  "Public": true
+}
